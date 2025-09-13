@@ -1,0 +1,5 @@
+{
+  "name": "C Code Sum Calculator",
+  "description": "A React application that replicates the functionality of a simple C program to calculate the sum of integers from 1 to a given number. It provides a user-friendly interface to enter a number and see the result, while also displaying the original C code for reference.",
+  "requestFramePermissions": []
+}
